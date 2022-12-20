@@ -8,7 +8,7 @@ The code is split into three Jupyter Notebooks:
 
 This Notebook deals with processing the raw netcdf input data in order for them to be used for training.
 
-2)  RNN_20CRv3_public.ipynb
+2)  LSTM_MPIGE_nonrandom_4git.ipynb
  
 This notebook contains the sampling of the data and the RNN architecture and its execution.
 
