@@ -16,6 +16,9 @@ This notebook contains the sampling of the data and the RNN architecture and its
 
 This Notebook deals with processing the output of the RNN in order to be compared to other netcdf datasets.
 
+
+We also added a .csv file with the 140 model architectures evaluated in the testing phase.
+
 ---------------------------------------------------------------------------------------------------------------
 If you would like to contact us, you can try the following channels
 
