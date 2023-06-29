@@ -1,6 +1,6 @@
 # RNN for field reconstruction
 
-Currently, this is the repository for the code of the publication XXXXXX
+Currently, this is the repository for the code of the [publication Artificial intelligence achieves easy-to-adapt nonlinear global temperature reconstructions using minimal local data](https://www.nature.com/articles/s43247-023-00872-9)
 
 The code is split into three Jupyter Notebooks:
 
